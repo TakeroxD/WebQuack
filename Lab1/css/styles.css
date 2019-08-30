@@ -1,0 +1,56 @@
+body{
+	font-family: sans-serif;
+	font-size: 13px;
+	margin: 0px;
+}
+li{
+	padding: 5px 0px;
+}
+header{
+	padding: 60px 0px 5px 10px;
+	margin: 0px;
+	background-color: #220033;
+	color: #FFFFFF;
+	background-image: url('images.jpg');
+	background-size: 135px 100px;
+	background-position: 350px;
+	background-repeat: no-repeat;
+}
+header > h1{
+	margin: 0px;
+	font-size: 28px;
+
+}
+#data{
+	font-weight: 700;
+	background-color: #d0a9f5;
+	padding: 10px 0px 30px 10px;
+	background-image: url('hehe.png');
+	overflow: hidden;
+}
+
+legend{
+	padding: 0px 15px;
+	color: #220033;
+}
+div{
+	padding: 0px 3px 0px 5px;
+	margin: 10px 0px 30px 0px;
+}
+fieldset{
+	border-color: #220033;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+}
+#progLang{
+	font-weight: 700;
+}
+label{
+	padding-right: 50px;
+}
+#data > label{
+	float: left;
+	clear: both;
+	padding: 0px;
+}
