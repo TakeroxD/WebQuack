@@ -1,5 +1,4 @@
-{
-  "fields": [{
+[{
       "field": "General Field",
       "field_id": 1,
       "description": "Award to the Artist and to the Producer(s), Recording Engineer(s) and/or Mixer(s) and mastering engineer(s), if other than the artist.",
@@ -822,5 +821,4 @@
         "winner_id": 1
       }]
     }
-  ]
-}
+]
