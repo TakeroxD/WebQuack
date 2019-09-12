@@ -1,0 +1,99 @@
+
+body {
+  font-family: 'Rubik', sans-serif;
+  font-size: 13px;
+  margin: 0;
+  background-color: #4a004d;
+  color: #ffffff;
+}
+
+.container {
+  width: 700px;
+  margin: auto;
+  padding: 20px 0px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+}
+
+
+select {
+  width: 300px;
+  height: 40px;
+  overflow: hidden;
+  background: url(new_arrow.png) no-repeat right #ddd;
+  border: 1px solid #ccc;
+}
+
+option {
+  font-family: 'Rubik', sans-serif;
+  font-size: 15px;
+}
+
+h2 {
+  color: #eba510;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 3em;
+}
+
+.description {
+  font-size: 15px;
+}
+
+h3 {
+  color: #eba510;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 2em;
+}
+
+.winner {
+  color: #eba510;
+  font-size: 2em;
+}
+
+h4 {
+ display: inline;
+}
+
+span {
+  margin-left: 20px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+hr {
+  margin-top: 30px;
+}
+
+fieldset{
+  border-color: #eba510;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+
+.artist{
+  font-style: italic;
+}
+
+li{
+  padding-top: 15px;
+}
+
+header{
+  padding: 0;
+  margin:0;
+  background-color: black;
+}
+
+.mainTitle{
+  font-size:7em;
+  font-family: 'Pacifico';
+  font-style: italic;
+  padding: 0px;
+  color: #e0a528;
+}

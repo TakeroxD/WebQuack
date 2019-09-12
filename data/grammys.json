@@ -195,6 +195,7 @@
     {
       "field": "POP",
       "field_id": 2,
+      "description":"Jeje no hay",
       "categories": [{
           "category_name": "Best Pop Solo Performance",
           "category_id": 5,
